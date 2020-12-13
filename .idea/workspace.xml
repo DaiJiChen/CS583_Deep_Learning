@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21023290-59f6-426a-9669-db02bf67ee6d" name="Default Changelist" comment="" />
+    <list default="true" id="21023290-59f6-426a-9669-db02bf67ee6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google Translation/JichenDai_HW3.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google Translation/assignment3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google Translation/~$chenDai_HW3.doc" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +27,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Studying &amp; Coding/CS 559" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -172,6 +177,7 @@
       <workItem from="1606209837398" duration="9192000" />
       <workItem from="1606373554648" duration="1204000" />
       <workItem from="1607480977925" duration="50000" />
+      <workItem from="1607826303447" duration="1162000" />
     </task>
     <servers />
   </component>
